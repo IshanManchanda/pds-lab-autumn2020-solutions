@@ -10,9 +10,8 @@
 
 int main() {
 	double x, sinx, cosx, sin2x;
-	// We will store each term to efficiently compute the next term.
+	// We will store the current term to efficiently compute the next term.
 	double sinx_term, cosx_term, sin2x_term;
-	// double sinx_terms[4], cosx_terms[4], sin2x_terms[4];
 
 	// Input the angle x
 	printf("Enter angle x (in radians): ");
