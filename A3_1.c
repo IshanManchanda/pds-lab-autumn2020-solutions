@@ -22,7 +22,7 @@ int main() {
 
 		if (n > 0) break;
 		printf("n needs to be a positive integer!\n");
-	};
+	}
 
 	// Initialize accumulator and first term.
 	accumulator = last_term = 1;
