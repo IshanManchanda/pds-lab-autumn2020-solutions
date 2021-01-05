@@ -1,4 +1,5 @@
 /* PDS Lab Autumn 2020, Assignment 1, Problem 3.
+ * Ishan Manchanda, 8th Dec 2020
  * Input the (integral) coefficients of a degree-5 polynomial.
  * Then, print the polynomial and its derivative polynomial.
  */

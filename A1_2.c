@@ -1,4 +1,5 @@
 /* PDS Lab Autumn 2020, Assignment 1, Problem 2.
+ * Ishan Manchanda, 8th Dec 2020
  * Input an angle x (in radians) from the user.
  * Using the series expansion formulas, compute sin(x), cos(x), sin(2*x)
  * and verify that sin(2*x) = 2 * sin(x) * cos(x)

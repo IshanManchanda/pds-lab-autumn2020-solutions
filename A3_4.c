@@ -1,4 +1,5 @@
 /* PDS Lab Autumn 2020, Assignment 3, Problem 4.
+ * Ishan Manchanda, 22nd Dec 2020
  * Input integer n between 1 and 9 and print the following pattern (n = 5):
  * 1        1
  * 22      22

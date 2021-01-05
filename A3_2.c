@@ -1,4 +1,5 @@
 /* PDS Lab Autumn 2020, Assignment 3, Problem 2.
+ * Ishan Manchanda, 22nd Dec 2020
  * Input integer n and print all integers in [1, 1000] whose sum of digits
  * is greater than n.
  */

@@ -1,4 +1,5 @@
 /* PDS Lab Autumn 2020, Assignment 2, Problem 2.
+ * Ishan Manchanda, 15th Dec 2020
  * Input an integer between 1 and 100 and print its value in words.
  */
 

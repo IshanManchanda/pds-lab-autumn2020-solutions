@@ -1,4 +1,5 @@
 /* PDS Lab Autumn 2020, Assignment 4, Problem 2.
+ * Ishan Manchanda, 29th Dec 2020
  */
 
 #include <stdio.h>

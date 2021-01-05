@@ -1,4 +1,5 @@
 /* PDS Lab Autumn 2020, Assignment 2, Problem 1.
+ * Ishan Manchanda, 15th Dec 2020
  * Input the (int) side length, L, of a square and the radius, R, of a circle.
  * Determine whether one shape can be placed inside the other.
  */

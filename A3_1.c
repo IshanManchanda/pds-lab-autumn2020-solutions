@@ -1,4 +1,5 @@
 /* PDS Lab Autumn 2020, Assignment 3, Problem 1.
+ * Ishan Manchanda, 22nd Dec 2020
  * Input positive integer n and real number x, and compute e^x up to n terms.
  * If x is not a positive integer, print a suitable error message and continue
  * until a valid input is received.

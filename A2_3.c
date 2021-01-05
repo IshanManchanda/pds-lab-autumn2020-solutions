@@ -1,4 +1,5 @@
 /* PDS Lab Autumn 2020, Assignment 2, Problem 3.
+ * Ishan Manchanda, 15th Dec 2020
  * Input the (int, int) coordinates of 4 points on a 2d plane from the user.
  * Determine if the 4 points form a rectangle.
  */

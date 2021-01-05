@@ -1,4 +1,5 @@
 /* PDS Lab Autumn 2020, Assignment 1, Problem 1.
+ * Ishan Manchanda, 8th Dec 2020
  * Input the lengths of sides AB, BC, and CA of a triangle ABC from the user.
  * Compute and print (i) The perimeter of the triangle, and
  * (ii) The square of the area of the triangle.
