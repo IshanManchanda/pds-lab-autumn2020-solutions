@@ -1,6 +1,7 @@
 CMakeLists.txt
 cmake-build-debug
 
+temp.c
 *.exe
 
 .idea
