@@ -1,7 +1,8 @@
+temp.c
+template.c
+*.exe
+
 CMakeLists.txt
 cmake-build-debug
-
-temp.c
-*.exe
 
 .idea
