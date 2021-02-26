@@ -32,17 +32,17 @@ int insert(int *a, int n, int num) {
 }
 
 int delete(int *a, int n, int num) {
-// Get lower bound
-int pos = lower_bound(a, 0, n - 1, num);
+	// Get lower bound
+	int pos = lower_bound(a, 0, n - 1, num);
 
-// If element doesn't exist, return error code 1
-if (pos >= n || a[pos] != num)
-return 1;
+	// If element doesn't exist, return error code 1
+	if (pos >= n || a[pos] != num)
+		return 1;
 
-// Else shift all elements after pos down by one
-for (int i = pos + 1; i < n; ++i)
-a[i - 1] = a[i];
-return 0;
+	// Else shift all elements after pos down by one
+	for (int i = pos + 1; i < n; ++i)
+		a[i - 1] = a[i];
+	return 0;
 }
 
 void print_set(int *a, int n) {
