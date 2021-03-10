@@ -5,7 +5,7 @@
 #include <stdio.h>
 #define MAX_N 10
 
-void minmax(int **matrix, int n, int *max, int *min) {
+void minmax(int matrix[][MAX_N], int n, int *max, int *min) {
 	// Initialize min and max values
 	*max = matrix[0][0];
 	*min = matrix[0][n - 1];
@@ -39,6 +39,6 @@ int main() {
 	}
 
 	// Call function with pointers for the outputs, print result
-	func(a, n, &max, &min);
+	minmax(a, n, &max, &min);
 	printf("Max = %d. Min = %d\n", max, min);
 }
